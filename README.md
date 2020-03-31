@@ -1,2 +1,2 @@
 # powershelladmin
-Powershell scripts to help system administrators
+Powershell scripts to help  enterprise system administrators
