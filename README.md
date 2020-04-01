@@ -1,6 +1,6 @@
 # powershell-admin
-Powershell scripts written by me to help enterprise system administrators.
-For more detailed description look at .DESCRIPTION or .NOTES in the begining of script.
+Powershell scripts written by me to help enterprise system administrators <br />
+For more detailed description look at .DESCRIPTION or .NOTES in the begining of script
 
 ## Gitlab
 ### ./Gitlab/Change Groups And Projects/Add-AllGitlabGroupsAndProjects.ps1
