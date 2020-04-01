@@ -2,7 +2,7 @@
 .SYNOPSIS
     Cheking .mp3 files 
 .DESCRIPTION
-    Checking existence of .mp3 files from two sources and send mail meassage if one of files of one source is missing
+    Checking existence of .mp3 files from two sources and sending mail meassage if one of files of one source is missing
 .EXAMPLE
     .\Check-VoiceFilesExisting.ps1
 .NOTES
