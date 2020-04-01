@@ -1,6 +1,6 @@
 ﻿<#
 .SYNOPSIS
-    Check mailboxes item size on EXchange 2016
+    Check mailboxes item size on Exchange 2016
 .DESCRIPTION
     Checking exchange mailboxes storage qoutas
 .EXAMPLE
