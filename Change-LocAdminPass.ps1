@@ -2,7 +2,7 @@
 .SYNOPSIS
     Change admins passwords
 .DESCRIPTION
-    Changing administrator passwords on computers outside the domain
+    Changing local administrator passwords on computers outside the domain
 .EXAMPLE
     .\Change-LocAdminPass.ps1
 #>
